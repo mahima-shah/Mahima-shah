@@ -1,16 +1,15 @@
-## Hi there 👋
+# Mahima Shah
 
-<!--
-**mahima-shah/Mahima-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science @ University of Michigan
 
-Here are some ideas to get you started:
+I like building at the intersection of software, product, and design, especially tools that make complex technology easier and more useful for people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring product engineering, applied AI, and human-centered software.
+
+### Selected Work
+
+Coming soon :)
+
+### Elsewhere
+
+[Website](https://mahimashah.xyz) · [LinkedIn](https://www.linkedin.com/in/shahmahima/)
